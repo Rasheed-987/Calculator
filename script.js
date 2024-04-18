@@ -15,6 +15,9 @@ let displayValue = '';
             let display = document.querySelector('.display');
               display.innerHTML=displayValue;
                  
+
+
+              
             
         }
 
